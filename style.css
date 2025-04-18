@@ -11,3 +11,10 @@ body{
     color: white;
     font-size:20px
 }
+textarea{
+    font-size: 20px;
+    padding: 10px;
+}
+.update_controller{
+    display: none;
+}
